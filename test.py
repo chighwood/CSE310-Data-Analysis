@@ -31,7 +31,8 @@ top_sector_avg = sector_avg_marketcap.max()
 print(f" The sector with the highest average market capitalization is --{top_sector}-- with an average market cap of ${top_sector_avg:,.2f}! ")
 print()
 
-# OPTIONAL Question and graph: Draw a chart for average market cap by sector
+# OPTIONAL Question and graph: What are the average market cap by sectors?
+# Draw a chart for average market cap by sector
 # I chose to use a bar chart to show this data by using matplotlib
 plt.figure(figsize=(12, 6))
 sector_avg_marketcap.plot(kind="bar", color="skyblue", edgecolor="black")
