@@ -1,7 +1,6 @@
 # ***Data Analysis Module***
 
 # Import the necessary libaries
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -94,9 +93,7 @@ for index, value in enumerate(sector_counts):
 plt.show()
 
 #------ OPTIONAL Question and graph: What are the average market cap by sectors? ------
-
 #                   Draw a chart for average market cap by sector
-
 #           I chose to use a bar chart to show this data by using matplotlib
 
 plt.figure(figsize=(12, 6))

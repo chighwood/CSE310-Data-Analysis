@@ -6,7 +6,7 @@ I have become interested in stocks over the last year so I chose the an S&P500 d
 
 Writing this software helped me to learn how to take raw data and access it using different types of libraries to compare and extract needed information.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LvDdxxLnOLE)
 
 # Data Analysis Results
 
